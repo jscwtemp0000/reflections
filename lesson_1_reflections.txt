@@ -1,0 +1,10 @@
+diffs are useful
+potentially difficult to organize backup files
+old version can be a verified working state
+record useful points in development
+allows idiots with ADD to mix unrelated changes and never commit
+
+save files together because code is a state of multiple files
+easy to revert
+
+code
