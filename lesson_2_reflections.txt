@@ -3,3 +3,5 @@ create .git dir to hold state
 staging area organizes changes into a logical unit to be commited
 
 changes occur concurrently, but when they can be isolated to files, they can be serialized
+
+logical change tracking
