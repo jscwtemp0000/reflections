@@ -1,0 +1,5 @@
+create .git dir to hold state
+
+staging area organizes changes into a logical unit to be commited
+
+
