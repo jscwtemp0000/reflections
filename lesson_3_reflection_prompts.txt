@@ -1,3 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 collab, sharing, backup
+
+need a stable reference to code against, manually updating when ready.
